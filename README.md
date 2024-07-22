@@ -25,7 +25,7 @@
   <li><a href="#default-available-markets-configurations">Default Available Markets Configurations</a></li>
   <li><a href="#contributing">Contributing</a></li>
   <li><a href="#license">License</a></li>
-  <li><a href="#acknowledgments">Acknowledgments</a></li>
+  <li><a href="#acknowledgements">Acknowledgements</a></li>
 </ol>
 
 <!-- ABOUT THE PROJECT -->
@@ -179,8 +179,8 @@ Distributed under the BSD 3-Clause "New" or "Revised" License. See `LICENSE` for
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgement
 ABIDES was originally developed by David Byrd and Tucker Balch: https://github.com/abides-sim/abides
 ABIDES is currently developed and maintained by [Jared Vann](https://github.com/jaredvann) (aka @jaredvann), [Selim Amrouni](https://github.com/selimamrouni) (aka @selimamrouni), and [Aymeric Moulin](https://github.com/AymericCAMoulin) (@AymericCAMoulin).
 **Important Note: We do not do technical support, nor consulting** and don't answer personal questions per email.
